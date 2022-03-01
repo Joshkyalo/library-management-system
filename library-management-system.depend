@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627048860 source:c:\users\student\documents\county-library-system-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
